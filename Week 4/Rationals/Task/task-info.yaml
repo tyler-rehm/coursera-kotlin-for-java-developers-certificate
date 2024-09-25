@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/rationals/Rational.kt
+    visible: true
+    learner_created: false
+  - name: test/rationals/TestRationals.kt
+    visible: true
+    learner_created: false
+  - name: partId
+    visible: false
+    learner_created: false
+  - name: assignmentKey
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/FNjea/rationals/discussions
+status: Unchecked
+feedback:
+  message: "Submission successful, please <a href=\"https://www.coursera.org/learn/kotlin-for-java-developers/programming/FNjea/rationals/submission\"\
+    >check the status on Coursera</a>"
+  time: "Sat, 21 Sep 2024 14:59:34 UTC"
+record: -1

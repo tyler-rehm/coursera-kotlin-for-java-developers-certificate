@@ -1,0 +1,40 @@
+type: edu
+files:
+  - name: src/mastermind/evaluateGuess.kt
+    visible: true
+    placeholders:
+      - offset: 154
+        length: 551
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 158
+        initialized_from_dependency: false
+        selected: true
+        status: Unchecked
+    learner_created: false
+  - name: src/mastermind/playMastermind.kt
+    visible: true
+    learner_created: false
+  - name: test/mastermind/MastermindTestUtil.kt
+    visible: true
+    learner_created: false
+  - name: test/mastermind/TestMastermindDifferentLetters.kt
+    visible: true
+    learner_created: false
+  - name: test/mastermind/TestMastermindRepeatedLetters.kt
+    visible: true
+    learner_created: false
+  - name: partId
+    visible: false
+    learner_created: false
+  - name: assignmentKey
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/vmwVT/mastermind-game/discussions
+status: Unchecked
+feedback:
+  message: "Submission successful, please <a href=\"https://www.coursera.org/learn/kotlin-for-java-developers/programming/vmwVT/mastermind-game/submission\"\
+    >check the status on Coursera</a>"
+  time: "Wed, 28 Aug 2024 14:43:34 UTC"
+record: -1
